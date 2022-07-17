@@ -28,7 +28,7 @@ const Header = () => {
           color: COLORS.white,
           fontSize: SIZES.large,
           fontFamily: FONTS.semiBold,
-          marginLeft: SIZES.large,
+          marginLeft: SIZES.extraLarge,
         }}
       >
         Header
