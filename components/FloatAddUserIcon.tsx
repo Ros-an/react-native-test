@@ -27,7 +27,6 @@ const FloatAddUserIcon = () => {
         bottom: 100,
         right: 15,
         ...SHADOWS.dark,
-        // ...props,
       }}
       onPress={handlePress}
     >

@@ -11,8 +11,8 @@ export const userInfo = [
     },
     {
         id: 2,
-        name: "Sarah",
-        recentMsg: "Hey I've completed the design",
+        name: "Jessica",
+        recentMsg: "Get those here...",
         notification: 2,
         timeStamp: "11:25pm",
         imgUrl: assets.person3
@@ -27,7 +27,7 @@ export const userInfo = [
     },
     {
         id: 4,
-        name: "Sarah",
+        name: "Jessica",
         recentMsg: "Hey I've completed the design",
         notification: 1,
         timeStamp: "11:25pm",
@@ -36,14 +36,14 @@ export const userInfo = [
     {
         id: 5,
         name: "Sarah",
-        recentMsg: "Hey I've completed the design",
+        recentMsg: "are you available?",
         notification: 2,
         timeStamp: "11:25pm",
         imgUrl: assets.person2
     },
     {
         id: 6,
-        name: "Sarah",
+        name: "Jessica",
         recentMsg: "Hey I've completed the design",
         notification: 2,
         timeStamp: "11:25pm",
@@ -59,7 +59,7 @@ export const userInfo = [
     },
     {
         id: 8,
-        name: "Sarah",
+        name: "Jessica",
         recentMsg: "Hey I've completed the design",
         notification: 2,
         timeStamp: "11:25pm",
@@ -75,7 +75,7 @@ export const userInfo = [
     },
     {
         id: 10,
-        name: "Sarah",
+        name: "Jessica",
         recentMsg: "Hey I've completed the design",
         notification: 2,
         timeStamp: "11:25pm",

@@ -28,9 +28,13 @@ const ChatRow = ({ ...props }: ChatRowProps) => {
       },
       { text: "OK", onPress: () => console.log("OK Pressed") },
     ]);
+  const handlePress = () => {
+    console.log(`${props.name}`, props);
+    createTwoButtonAlert();
+  };
   return (
     <TouchableOpacity
-      onPress={createTwoButtonAlert}
+      onPress={handlePress}
       style={{
         flexDirection: "row",
         alignItems: "center",
